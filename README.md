@@ -5,7 +5,7 @@ This tool can't replace Studio of course, but it's not the purpose neither today
 Actually, it ease the daily work, all farms data are accessible in the same window, it gives a quick access to information.<br />
 It"s a scalable tool.<br/>
 
-<img src="https://github.com/user-attachments/assets/3c885fcf-fdd2-4848-8be1-1cdf9083a2d3" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/3c885fcf-fdd2-4848-8be1-1cdf9083a2d3" width="600" height="600">
 
 # Features
 
@@ -107,17 +107,16 @@ C:\Program Files (x86)\PhoenixNBR\XD Tool
 	<ul>
 	<li>XD_Tool.exe // PS1 compiled in exe</li>	
 	<li>Configuration folder</li>
-	<ul>
 		<li>assembly folder // dlls for Material Design</li>
-			<ul>
-			<li>MaterialDesignColors.dll</li>
-			<li>MaterialDesignMessageBox.dll</li>
-			<li>MaterialDesignThemes.Wpf.dll</li>
-			</ul>
+		<ul>
+		<li>MaterialDesignColors.dll</li>
+		<li>MaterialDesignMessageBox.dll</li>
+		<li>MaterialDesignThemes.Wpf.dll</li>
+		</ul>
 		<li>Pictures folder // images used in the tool</li>
 		<li>PSExcel-master // Excel module</li>
 		<li>XAML // XAML files in WPF</li>
-		</ul>
+	</ul>
   
 C:\Users\%USERNAME%\AppData\Local\XD_Tool<br />
 	<ul>
@@ -127,6 +126,7 @@ C:\Users\%USERNAME%\AppData\Local\XD_Tool<br />
 		<li>Config.xml // configuration file created at first launch</li>
 		<li>Exports folder // XLSX export files created in the tool</li>
 		</ul>
+ 	 </ul>
 
 # Fisrt launch
 
