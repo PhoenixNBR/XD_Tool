@@ -96,9 +96,21 @@ You can refresh all the page or each item separatly.
 
 # Getting Started
 
-You just have to install XD_Tool.msi.<br/>
-It will copy the necessary files and folders in "C:\Program Files (x86)\PhoenixNBR\XD Tool"<br/>
-and "C:\Users\\%USERNAME%\AppData\Local\XD_Tool"
+Two methods to get XD_Tool<br/>
+
+Easier one : 
+<li>Download and install XD_Tool.msi in Release section.<br/>
+<li>The msi only copy the necessaries assembly, pictures and XAML files and create start menu and desktop shorcut to launch XD_Tool.<br/><br/>
+
+Other method, if you don't want to download a MSI : <br/>
+<li>Download XD_Tool.ps1 and Configuration.7z<br/>
+<li>Unzip Configuration.7z to <B>Configuration</B> folder where you want.<br/>
+<li>If necessary, unblock the 3 Material Design DLL in folder \Configuration\assembly<br/>
+<li>If necessary, unblock EPPlus.dll in \Configuration\PSExcel-master\PSExcel\lib  <br/>
+<li>XD_Tool.ps1 must be at the same level than Configuration folder.  <br/>
+<li>Run XD_Tool.ps1 by right click.  <br/>
+<li>Enjoy. <br/>
+
 
 
 # Tree folder structure
