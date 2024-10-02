@@ -100,7 +100,7 @@ Two methods to get XD_Tool<br/>
 
 Easier one : 
 <li>Download and install XD_Tool.msi in Release section.<br/>
-<li>The msi only copy the necessaries assembly, pictures and XAML files and create start menu and desktop shorcut to launch XD_Tool.<br/><br/>
+<li>The msi only copy the necessaries assembly, pictures and XAML files and create start menu and desktop shorcuts to launch XD_Tool.<br/><br/>
 
 Other method, if you don't want to download a MSI : <br/>
 <li>Download XD_Tool.ps1 and Configuration.7z<br/>
